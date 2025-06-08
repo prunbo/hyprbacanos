@@ -1,0 +1,11 @@
+configuration {
+  modi: "drun";
+  font: "JetBrainsMono Nerd Font 12";
+  show-icons: true;
+  
+//  @theme "Arc-Dark"
+}
+
+//@theme "/usr/share/rofi/themes/android_notification.rasi"
+
+@theme "/usr/share/rofi/themes/arthur.rasi"
